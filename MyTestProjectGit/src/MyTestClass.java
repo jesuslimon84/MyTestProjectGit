@@ -4,6 +4,7 @@ public class MyTestClass {
 		System.out.println("Test 0");
 		System.out.println("Hola mundo de nuevo");
 		System.out.println("Test 2");
+		System.out.println("Test 3");
 	}
 	
 }
