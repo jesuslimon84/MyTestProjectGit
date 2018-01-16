@@ -5,6 +5,7 @@ public class MyTestClass {
 		System.out.println("Hola mundo de nuevo");
 		System.out.println("Test 2");
 		System.out.println("Test 3");
+		System.out.println("Test 4");
 	}
 	
 }
