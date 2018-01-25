@@ -9,6 +9,7 @@ public class MyTestClass {
 		System.out.println("Test 5");
 		System.out.println("Test again");
 		System.out.println("Test Jesús");
+		System.out.println("Test");
 	}
 	
 }
